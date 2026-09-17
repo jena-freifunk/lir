@@ -59,7 +59,7 @@ Nur **10.17.0.1 – 10.17.15.254** verwenden.
 ## Anspruchstabelle (statisch)
 
 Eine freie Adresse im Spezialbereich beanspruchen, bevor sie genutzt wird.  
-Diese Datei im Paket `ffj-community` (oder im Community-Wiki-Spiegel) bearbeiten und einen PR öffnen.
+Diese Datei im Paket bearbeiten und einen PR öffnen.
 
 Regeln:
 
