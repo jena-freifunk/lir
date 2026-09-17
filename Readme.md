@@ -1,7 +1,6 @@
 # Freifunk Jena — IPv4-Adressraum
 
 Community-Netz: **10.17.0.0/16** (65536 Adressen)  
-Quelle der Wahrheit: https://github.com/jena-freifunk/li  
 IPv6-ULA: `fd59:b1b7:1d1f::/64` (Host-Anteil aus MAC)
 
 ## Aufteilung
