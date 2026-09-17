@@ -71,5 +71,5 @@ Regeln:
 | IPv4 | Beansprucht von | Zweck | Seit | Notizen |
 |------|-----------------|-------|------|---------|
 | 10.17.0.1 | LibreMesh | AnyGW | 2026-09-17 | |
-| 10.17.13.0/26 | Martin | Dienste & Richtfunk | 2026-09-17 | |
+| 10.17.13.0/25 | Martin | Dienste & Richtfunk | 2026-09-17 | |
 | … | | | | Bei Bedarf Zeilen ergänzen |
